@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "heapfile.C": "cpp",
+        "testfile.C": "cpp",
+        "buf.C": "cpp"
+    }
+}
